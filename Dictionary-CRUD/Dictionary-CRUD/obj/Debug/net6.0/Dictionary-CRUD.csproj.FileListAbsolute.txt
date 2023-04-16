@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\bin\Debug\net6.0\Dictionary-CRUD.exe
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\bin\Debug\net6.0\Dictionary-CRUD.deps.json
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\bin\Debug\net6.0\Dictionary-CRUD.runtimeconfig.json
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\bin\Debug\net6.0\Dictionary-CRUD.dll
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\bin\Debug\net6.0\Dictionary-CRUD.pdb
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\obj\Debug\net6.0\Dictionary-CRUD.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\obj\Debug\net6.0\Dictionary-CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\obj\Debug\net6.0\Dictionary-CRUD.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\obj\Debug\net6.0\Dictionary-CRUD.AssemblyInfo.cs
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\obj\Debug\net6.0\Dictionary-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\obj\Debug\net6.0\Dictionary-CRUD.dll
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\obj\Debug\net6.0\refint\Dictionary-CRUD.dll
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\obj\Debug\net6.0\Dictionary-CRUD.pdb
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\obj\Debug\net6.0\Dictionary-CRUD.genruntimeconfig.cache
+C:\Users\USER\source\BL\4A-PracticeProblems\Dictionary-CRUD\Dictionary-CRUD\obj\Debug\net6.0\ref\Dictionary-CRUD.dll
